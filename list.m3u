@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://192.168.2.200:3566/playback.xml" 
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
-http://192.168.2.200:3566/608807420
+http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2财经
-http://192.168.2.200:3566/631780532
+http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视",CCTV3综艺
 http://192.168.2.200:3566/624878271
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际
@@ -213,5 +213,6 @@ http://192.168.2.200:3566/629942219
 http://192.168.2.200:3566/961930269
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="纪实",环球旅游
 http://192.168.2.200:3566/958475356
+
 
 
