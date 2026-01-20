@@ -492,19 +492,6 @@ https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://pic.616pic.com/ys_img/00/06/11/53oVTERbMu.jpg" group-title="卫视",浙江卫视
 http://69.30.246.194/live/zjws.m3u8
 
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://pic.616pic.com/ys_img/00/06/11/53oVTERbMu.jpg" group-title="卫视",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://pic.616pic.com/ys_img/00/06/11/53oVTERbMu.jpg" group-title="卫视",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://pic.616pic.com/ys_img/00/06/11/53oVTERbMu.jpg" group-title="卫视",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://pic.616pic.com/ys_img/00/06/11/53oVTERbMu.jpg" group-title="卫视",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://pic.616pic.com/ys_img/00/06/11/53oVTERbMu.jpg" group-title="卫视",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 
