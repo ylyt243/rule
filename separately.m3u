@@ -81,9 +81,6 @@ http://23.237.228.134/live8/jiangxi.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
 http://69.30.246.194/live/dfws.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
-http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
 http://23.237.228.134/live6/dongnan.m3u8
 
@@ -152,6 +149,7 @@ http://23.237.228.134/live8/gansu.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://img2.baidu.com/it/u=1455227615,483052193&fm=253&fmt=auto&app=138&f=PNG" group-title="卫视",内蒙古卫视
 http://23.237.228.134/live8/neimenggu.m3u8
+
 
 
 
