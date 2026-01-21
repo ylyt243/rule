@@ -41,9 +41,6 @@ https://list.syyel.dynv6.net:8989/608807416
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://img0.baidu.com/it/u=2303414621,2983398344&fm=253&fmt=auto&app=120&f=JPEG" group-title="卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
-https://list.syyel.dynv6.net:8989/651632648
-
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视",江苏卫视
 https://list.syyel.dynv6.net:8989/623899368
 
@@ -52,6 +49,21 @@ http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视",北京卫视
 https://list.syyel.dynv6.net:8989/630287636
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
+https://list.syyel.dynv6.net:8989/651632648
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
+http://btjg.net:809/hls/42/index.m3u8
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
+http://222.214.208.34:59901/tsfile/live/0130_1.m3u8
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
+http://23.237.228.134/live8/anhui.m3u8
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
 https://list.syyel.dynv6.net:8989/849116810
@@ -150,4 +162,5 @@ https://list.syyel.dynv6.net:8989/614952364
 https://list.syyel.dynv6.net:8989/629942219
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="少儿",新动漫
 https://list.syyel.dynv6.net:8989/961930269
+
 
