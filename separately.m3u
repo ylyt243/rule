@@ -40,7 +40,7 @@ http://69.30.246.194/live/cctv11.m3u8
 http://23.237.228.134/live3/CCTV12.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13新闻
-http://69.30.246.194/live/cctv13.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14少儿
 http://23.237.228.134/live3/CCTV14.m3u8
@@ -146,6 +146,7 @@ http://23.237.228.134/live8/gansu.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://img2.baidu.com/it/u=1455227615,483052193&fm=253&fmt=auto&app=138&f=PNG" group-title="卫视",内蒙古卫视
 http://23.237.228.134/live8/neimenggu.m3u8
+
 
 
 
