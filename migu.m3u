@@ -56,6 +56,9 @@ https://list.syyel.dynv6.net:8989/651632648
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
+https://live1.ahtv.cn/ahws/hd/live.m3u8?_upt=1dc06f2f1768993894
+
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20190925/a6987c683cec4d52bb1227aa91d9fa1a.png" group-title="卫视",山东卫视
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 
@@ -147,6 +150,7 @@ https://list.syyel.dynv6.net:8989/614952364
 https://list.syyel.dynv6.net:8989/629942219
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="少儿",新动漫
 https://list.syyel.dynv6.net:8989/961930269
+
 
 
 
