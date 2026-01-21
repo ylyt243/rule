@@ -48,7 +48,7 @@ http://23.237.228.134/live3/CCTV14.m3u8
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
 http://23.237.228.134/live3/CCTV15.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CCTV-16_%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B.svg" group-title="央视",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8326cffc1e178a82b901c3659651648da977381242e1?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" group-title="央视",CCTV16奥林匹克
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
@@ -152,4 +152,5 @@ http://23.237.228.134/live8/gansu.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://img2.baidu.com/it/u=1455227615,483052193&fm=253&fmt=auto&app=138&f=PNG" group-title="卫视",内蒙古卫视
 http://23.237.228.134/live8/neimenggu.m3u8
+
 
