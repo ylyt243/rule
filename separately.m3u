@@ -54,10 +54,10 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
 http://23.237.228.134/live3/CCTV17.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4中文国际欧洲" tvg-name="CCTV4中文国际欧洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际欧洲
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4中文国际欧洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="央视",CCTV4欧洲
 http://btjg.net:809/hls/143/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4中文国际美洲" tvg-name="CCTV4中文国际美洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际美洲
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4中文国际美洲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="央视",CCTV4美洲
 http://btjg.net:809/hls/144/index.m3u8
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://img0.baidu.com/it/u=4234115273,339800645&fm=253&fmt=auto?w=1105&h=660" group-title="卫视",浙江卫视
@@ -152,3 +152,4 @@ http://23.237.228.134/live8/gansu.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://img2.baidu.com/it/u=1455227615,483052193&fm=253&fmt=auto&app=138&f=PNG" group-title="卫视",内蒙古卫视
 http://23.237.228.134/live8/neimenggu.m3u8
+
