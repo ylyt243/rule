@@ -65,6 +65,32 @@ http://23.237.228.134/live8/anhui.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="卫视",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://btjg.net:809/hls/37/index.m3u8
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://120.211.62.180:8000/hls/38/index.m3u8
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://61.184.46.85:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://img2.baidu.com/it/u=2881283008,2060220500&fm=253&fmt=auto&app=120&f=PNG" group-title="卫视",山东卫视
+http://182.150.23.74:808/hls/23/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
 https://list.syyel.dynv6.net:8989/849116810
 
@@ -162,5 +188,6 @@ https://list.syyel.dynv6.net:8989/614952364
 https://list.syyel.dynv6.net:8989/629942219
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="少儿",新动漫
 https://list.syyel.dynv6.net:8989/961930269
+
 
 
