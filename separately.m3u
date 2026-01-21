@@ -64,7 +64,7 @@ http://btjg.net:809/hls/143/index.m3u8
 http://btjg.net:809/hls/144/index.m3u8
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://img0.baidu.com/it/u=4234115273,339800645&fm=253&fmt=auto?w=1105&h=660" group-title="卫视",浙江卫视
-http://23.237.228.134/live6/zhejiang.m3u8
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视",江苏卫视
 http://38.75.136.137:98/gslb/dsdqca/jswshd.m3u8?auth=test20251009
@@ -149,6 +149,7 @@ http://23.237.228.134/live8/gansu.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://img2.baidu.com/it/u=1455227615,483052193&fm=253&fmt=auto&app=138&f=PNG" group-title="卫视",内蒙古卫视
 http://23.237.228.134/live8/neimenggu.m3u8
+
 
 
 
